@@ -17,7 +17,7 @@ This is a repo for the final project, programming for data science course
   <tr>
     <td>19127134</td>
     <td>Nguyễn Gia Hân</td>
-    <td> <a href="https://github.com/wia296">wia296</a> </td>
+    <td> <a href="https://github.com/nghaan">nghaan</a> </td>
   </tr>
   
 </table>
