@@ -21,3 +21,5 @@ This is a repo for the final project, programming for data science course
   </tr>
   
 </table>
+
+Link trello để phân chia công việc nhóm: https://trello.com/b/1P2Dk8Ma/p4ds-finalproject
