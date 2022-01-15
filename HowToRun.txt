@@ -1,0 +1,5 @@
+- Ở file notebook, bọn em viết mã chạy trên môi trường min_ds.env và không có thêm modules nào bổ sung.
+- Các bước để chạy file notebook:
+	+ Từ terminal, chạy lệnh "conda activate min_ds-env" để kích hoạt môi trường
+	+ Chạy lệnh "jupyter notebook" để  mở Jupyter notebook 
+	+ Chọn tập tin Final và có thể chạy code để xem kết qủa
