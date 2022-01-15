@@ -2,4 +2,4 @@
 - Các bước để chạy file notebook:
 	+ Từ terminal, chạy lệnh "conda activate min_ds-env" để kích hoạt môi trường
 	+ Chạy lệnh "jupyter notebook" để  mở Jupyter notebook 
-	+ Chọn tập tin Final và có thể chạy code để xem kết qủa
+	+ Chọn tập tin Final.ipynb và chạy code để xem kết qủa
